@@ -1,3 +1,12 @@
+# Classification SVC,RFC,Lin Regr,Log Regr on haberman data and prediction on sample data set below
+"""
+12,97,211
+3,22,1232
+4,55,1
+99,99,1
+"""
+
+
 import numpy as np
 import os
 import pandas as pd
