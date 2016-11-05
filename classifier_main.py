@@ -1,12 +1,15 @@
 # Classification SVC,RFC,Lin Regr,Log Regr on haberman data and prediction on sample data set below
-# Haberman data from "https://archive.ics.uci.edu/ml/machine-learning-databases/haberman/"
-
 """
 12,97,211
 3,22,1232
 4,55,1
 99,99,1
 """
+
+# output expected is 2,2,1,1 from above set
+# Haberman data from "https://archive.ics.uci.edu/ml/machine-learning-databases/haberman/"
+
+
 
 
 import numpy as np
