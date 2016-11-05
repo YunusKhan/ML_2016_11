@@ -1,4 +1,6 @@
 # Classification SVC,RFC,Lin Regr,Log Regr on haberman data and prediction on sample data set below
+# Haberman data from "https://archive.ics.uci.edu/ml/machine-learning-databases/haberman/"
+
 """
 12,97,211
 3,22,1232
